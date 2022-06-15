@@ -15,7 +15,7 @@
     "luxon": "^2.3.1",
     "gev-plugin-device-info": "^0.3.9",
     "gev-plugin-routing": "^1.2.3",
-    "gev-plugin-subscriptions": "^1.9.0000 new!"
+    "gev-plugin-subscriptions": "^1.9.0"
     
   },
   "devDependencies": {
